@@ -1,2 +1,2 @@
-hello = 123
-print(hello)
+a = "wow"
+print(a + "hahahaha")
