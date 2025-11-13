@@ -1,2 +1,2 @@
-# team-collaboration-demo
-sample project for Git teamwork.
+# About Me
+Hi! I'm Jerome, and I worked on the jerome-feature
