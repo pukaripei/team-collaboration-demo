@@ -1,2 +1,2 @@
-# team-collaboration-demo
-sample project for Git teamwork.
+# About Me
+Hi! this is team-collaboration-demo readme.md
